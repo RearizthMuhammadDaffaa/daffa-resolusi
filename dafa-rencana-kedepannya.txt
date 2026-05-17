@@ -3,4 +3,6 @@ RENCANA DAFFAA
   - menjadi machine learning engineer
   - lebih konsisten belajar matematika
   - Belajar matematika khususnya untuk machine learning dan AI
-  - Belajar Data Strukture
+  - Belajar Angular
+  - Belajar ReactJS
+  - Belajar Laravel
