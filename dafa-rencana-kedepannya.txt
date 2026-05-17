@@ -6,3 +6,4 @@ RENCANA DAFFAA
   - Belajar Data Strukture
   - Belajar NextJS
   - Belajar Laravel
+  - Mengulang ReactJS
