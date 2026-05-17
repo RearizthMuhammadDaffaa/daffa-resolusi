@@ -4,3 +4,5 @@ RENCANA DAFFAA
   - lebih konsisten belajar matematika
   - Belajar matematika khususnya untuk machine learning dan AI
   - Belajar Data Strukture
+  - Belajar NextJS
+  - Belajar Laravel
